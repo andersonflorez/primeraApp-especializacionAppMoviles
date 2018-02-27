@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario Personas</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title">Datos</string>
+    <string name="name">Nombre</string>
+    <string name="id">Cedula</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="search">Consultar</string>
+</resources>
