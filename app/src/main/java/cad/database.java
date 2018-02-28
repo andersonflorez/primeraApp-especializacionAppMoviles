@@ -112,4 +112,9 @@ public class database extends SQLiteOpenHelper {
             return Integer.parseInt(null);
         }
     }
+
+    public Cursor listAll(){
+        SQLiteDatabase db = getReadableDatabase();
+        Cursor cursor = db.query(dbconstants.User.TABLE,)
+    }
 }
